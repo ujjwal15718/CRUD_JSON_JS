@@ -1,0 +1,20 @@
+[
+   {
+      "userId": "ujjwal@gmail.com",
+      "name": "ujjwal",
+      "city": "dhanbad",
+      "language": "english"
+   },
+   {
+      "userID": "alisha@gmail.org",
+      "name": "Alisha",
+      "city": "Bokaro",
+      "language": "French"
+   },
+   {
+      "userId": "Alisha@gmail.org",
+      "name": "Megha",
+      "city": "Dharmshala",
+      "language": "Hindi"
+   }
+]
